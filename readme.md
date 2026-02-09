@@ -1,4 +1,4 @@
 Changes coming from feature-branch 
-
-Change to check merge conflict changes
+Checking for Merge conflict 
 Change is done in feature-dev1
+This is comming from feature-dev2
